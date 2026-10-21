@@ -13,7 +13,7 @@ const notes = [
   {
     afterImage: 11,
     kicker: "oblviously natural",
-    text: "Nonchalantly, she's stepping over puddles, where others falter and find their divine",
+    text: "Nonchalantly, she's stepping over puddles where others falter and find their divine",
     className: "note-wide note-center",
   },
   {
