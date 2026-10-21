@@ -13,13 +13,13 @@ const notes = [
   {
     afterImage: 11,
     kicker: "oblviously natural",
-    text: "Nonchalantly, she's stepping over puddles where others falter and find their divine",
+    text: "Nonchalantly, she's stepping over puddles where others falter and fall to their divine",
     className: "note-wide note-center",
   },
   {
     afterImage: 18,
     kicker: "open and unafraid",
-    text: "Kind and clear, she will play you like a tool; dare you suppose weakness is implied",
+    text: "Kind and clear, she will play you like a tool; dare to suppose weakness is implied",
   },
   {
     afterImage: 25,
