@@ -97,11 +97,48 @@ body { margin: 0; color: #34382a; background: var(--paper); font-family: "Helvet
 .gallery-note.note-wide { grid-column: span 3; }
 .gallery-note.note-center { align-items: center; text-align: center; }
 
-.closing { min-height: 150px; padding: 30px 15px 48px; display: flex; flex-direction: column; align-items: center; justify-content: center; color: #96947c; text-align: center; gap: 9px; }
-.closing-flower { font-size: 1.5rem; transform: rotate(-25deg); }
-.closing-script { color: #7e8068; margin: 0 0 8px; font: italic 400 clamp(1.7rem,4vw,3rem)/1.15 "Brush Script MT","Segoe Script",cursive; }
-.closing-label { margin: 0; font: .58rem Georgia,serif; letter-spacing: .32em; }
+/* Closing inscription */
+.closing {
+    min-height: 220px;
+    padding: 55px 24px 65px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background: var(--paper);
+    color: #7e8068;
+    text-align: center;
+    gap: 0;
+}
 
+.closing-flower {
+    font-size: 1.5rem;
+    color: #a39a83;
+    transform: rotate(-25deg);
+    margin-bottom: 18px;
+}
+
+.closing-script {
+    max-width: 850px;
+    color: #7e8068;
+    margin: 0;
+    font-family: 'Cormorant Garamond', serif;
+    font-size: clamp(1.5rem, 3.2vw, 2.7rem);
+    font-weight: 400;
+    font-style: normal;
+    line-height: 1.35;
+    letter-spacing: 0.01em;
+    text-wrap: balance;
+}
+
+.closing-label {
+    margin: 22px 0 0;
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 0.7rem;
+    font-weight: 400;
+    letter-spacing: 0.28em;
+    color: #a39a83;
+}
 @media (max-width:760px) {
   .hero { min-height: 600px; height: 88vh; max-height: 780px; background-position: 40% center; }
   .hero-nav { gap: 15px; top: 20px; } .hero-nav a { font-size: .54rem; letter-spacing: .14em; }
