@@ -7,8 +7,8 @@ const imageCount = 39;
 const notes = [
   {
     afterImage: 5,
-    kicker: "I found you",
-    text: "She speaks up your mind, like she’s speaking from your mind",
+    kicker: "I found her",
+    text: "speaking up your mind, like she’s speaking from your mind",
   },
   {
     afterImage: 11,
