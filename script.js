@@ -24,7 +24,7 @@ const notes = [
   {
     afterImage: 25,
     kicker: "unapologetically beautiful",
-    text: "You don’t doubt her beauty, her name is a declaration, must you care to think twice",
+    text: "You don’t doubt her beauty, her name is a declaration, must you think twice ?",
     className: "note-center",
   },
   {
