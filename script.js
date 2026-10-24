@@ -19,7 +19,7 @@ const notes = [
   {
     afterImage: 18,
     kicker: "open and unafraid",
-    text: "Kind and clear, she will play you like a tool; dare to suppose weakness is implied",
+    text: "Kind and clear, she will play you like a tool; if you dare to suppose weakness is implied",
   },
   {
     afterImage: 25,
